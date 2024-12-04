@@ -1,0 +1,6 @@
+#,user_id,full_name,email,password
+1,1,John Doe,john@example.com,password123
+2,2,Jane Smith,jane@example.com,password456
+3,3,Alice Johnson,alice@example.com,password789
+4,4,Bob Brown,bob@example.com,password101
+5,5,Charlie Davis,charlie@example.com,password202

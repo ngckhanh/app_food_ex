@@ -1,0 +1,6 @@
+#,food_id,food_name,image,price,desc,type_id
+1,1,Spring Rolls,spring_rolls.jpg,5.99,Crispy rolls filled with vegetables,1
+2,2,Steak,steak.jpg,14.99,Grilled steak with herbs,2
+3,3,Chocolate Cake,chocolate_cake.jpg,6.99,Rich and creamy chocolate cake,3
+4,4,Lemonade,lemonade.jpg,2.99,Freshly squeezed lemonade,4
+5,5,Fries,fries.jpg,3.49,Crispy golden fries,5

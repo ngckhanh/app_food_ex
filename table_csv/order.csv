@@ -1,0 +1,5 @@
+#,order_id,user_id,food_id,amount,code,arr_sub_id
+1,1,1,1,2,ORD1,"1,2"
+2,2,2,2,1,ORD12,3
+3,3,3,3,3,ORD123,"4,5"
+4,4,4,4,2,ORD1234,1
